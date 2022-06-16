@@ -1,0 +1,15 @@
+C:\Users\royca\Desktop\CSharpFundamentals\GeneralTheory\GeneralTheory\bin\Debug\net6.0\GeneralTheory.exe
+C:\Users\royca\Desktop\CSharpFundamentals\GeneralTheory\GeneralTheory\bin\Debug\net6.0\GeneralTheory.deps.json
+C:\Users\royca\Desktop\CSharpFundamentals\GeneralTheory\GeneralTheory\bin\Debug\net6.0\GeneralTheory.runtimeconfig.json
+C:\Users\royca\Desktop\CSharpFundamentals\GeneralTheory\GeneralTheory\bin\Debug\net6.0\GeneralTheory.dll
+C:\Users\royca\Desktop\CSharpFundamentals\GeneralTheory\GeneralTheory\bin\Debug\net6.0\GeneralTheory.pdb
+C:\Users\royca\Desktop\CSharpFundamentals\GeneralTheory\GeneralTheory\obj\Debug\net6.0\GeneralTheory.csproj.AssemblyReference.cache
+C:\Users\royca\Desktop\CSharpFundamentals\GeneralTheory\GeneralTheory\obj\Debug\net6.0\GeneralTheory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\royca\Desktop\CSharpFundamentals\GeneralTheory\GeneralTheory\obj\Debug\net6.0\GeneralTheory.AssemblyInfoInputs.cache
+C:\Users\royca\Desktop\CSharpFundamentals\GeneralTheory\GeneralTheory\obj\Debug\net6.0\GeneralTheory.AssemblyInfo.cs
+C:\Users\royca\Desktop\CSharpFundamentals\GeneralTheory\GeneralTheory\obj\Debug\net6.0\GeneralTheory.csproj.CoreCompileInputs.cache
+C:\Users\royca\Desktop\CSharpFundamentals\GeneralTheory\GeneralTheory\obj\Debug\net6.0\GeneralTheory.dll
+C:\Users\royca\Desktop\CSharpFundamentals\GeneralTheory\GeneralTheory\obj\Debug\net6.0\refint\GeneralTheory.dll
+C:\Users\royca\Desktop\CSharpFundamentals\GeneralTheory\GeneralTheory\obj\Debug\net6.0\GeneralTheory.pdb
+C:\Users\royca\Desktop\CSharpFundamentals\GeneralTheory\GeneralTheory\obj\Debug\net6.0\GeneralTheory.genruntimeconfig.cache
+C:\Users\royca\Desktop\CSharpFundamentals\GeneralTheory\GeneralTheory\obj\Debug\net6.0\ref\GeneralTheory.dll
