@@ -1,0 +1,15 @@
+C:\Users\royca\Desktop\CSharpFundamentals\GeneralTheory\Summarize\bin\Debug\net6.0\Summarize.exe
+C:\Users\royca\Desktop\CSharpFundamentals\GeneralTheory\Summarize\bin\Debug\net6.0\Summarize.deps.json
+C:\Users\royca\Desktop\CSharpFundamentals\GeneralTheory\Summarize\bin\Debug\net6.0\Summarize.runtimeconfig.json
+C:\Users\royca\Desktop\CSharpFundamentals\GeneralTheory\Summarize\bin\Debug\net6.0\Summarize.dll
+C:\Users\royca\Desktop\CSharpFundamentals\GeneralTheory\Summarize\bin\Debug\net6.0\Summarize.pdb
+C:\Users\royca\Desktop\CSharpFundamentals\GeneralTheory\Summarize\obj\Debug\net6.0\Summarize.csproj.AssemblyReference.cache
+C:\Users\royca\Desktop\CSharpFundamentals\GeneralTheory\Summarize\obj\Debug\net6.0\Summarize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\royca\Desktop\CSharpFundamentals\GeneralTheory\Summarize\obj\Debug\net6.0\Summarize.AssemblyInfoInputs.cache
+C:\Users\royca\Desktop\CSharpFundamentals\GeneralTheory\Summarize\obj\Debug\net6.0\Summarize.AssemblyInfo.cs
+C:\Users\royca\Desktop\CSharpFundamentals\GeneralTheory\Summarize\obj\Debug\net6.0\Summarize.csproj.CoreCompileInputs.cache
+C:\Users\royca\Desktop\CSharpFundamentals\GeneralTheory\Summarize\obj\Debug\net6.0\Summarize.dll
+C:\Users\royca\Desktop\CSharpFundamentals\GeneralTheory\Summarize\obj\Debug\net6.0\refint\Summarize.dll
+C:\Users\royca\Desktop\CSharpFundamentals\GeneralTheory\Summarize\obj\Debug\net6.0\Summarize.pdb
+C:\Users\royca\Desktop\CSharpFundamentals\GeneralTheory\Summarize\obj\Debug\net6.0\Summarize.genruntimeconfig.cache
+C:\Users\royca\Desktop\CSharpFundamentals\GeneralTheory\Summarize\obj\Debug\net6.0\ref\Summarize.dll

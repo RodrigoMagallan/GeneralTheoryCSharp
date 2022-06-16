@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneralTheory", "GeneralTheory\GeneralTheory.csproj", "{940470B3-749D-4FAF-88D2-A2000BEE671B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Summarize", "Summarize\Summarize.csproj", "{0B5229E2-C35F-45B3-948D-CA0939DAB1AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{940470B3-749D-4FAF-88D2-A2000BEE671B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{940470B3-749D-4FAF-88D2-A2000BEE671B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{940470B3-749D-4FAF-88D2-A2000BEE671B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B5229E2-C35F-45B3-948D-CA0939DAB1AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B5229E2-C35F-45B3-948D-CA0939DAB1AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B5229E2-C35F-45B3-948D-CA0939DAB1AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B5229E2-C35F-45B3-948D-CA0939DAB1AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
